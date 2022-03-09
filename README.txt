@@ -1,6 +1,13 @@
 # 🏀 NBA Game Ready 🏀
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+-----------------
+## Table of Contents
+1. [Overview](#Overview)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Networking](#Networking)
+5. [Architecture](#Architecture)
+6. [Responsibilities](#Responsibilities)
 
 
 After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
